@@ -3,6 +3,5 @@
 
 int main() {
   printf("hello world !!!!");
-  printf("i am the king !!!!");
   return 0;
 }
